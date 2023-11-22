@@ -7,7 +7,6 @@ const Body=()=>{
         <div className="body">
 
         <div className="body-div">
-            <Link to='/login'><button>Logins/Sign Up</button></Link>
             <Image1/>
         </div>
         </div>

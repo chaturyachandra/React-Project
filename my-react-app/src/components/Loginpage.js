@@ -36,9 +36,9 @@ const Loginpage= () => {
             {password}
         </TextField>
 
-        <Button type="submit"  fullWidth variant="contained" color="primary">
+        <Link to="/frontpage"><Button type="submit"  fullWidth variant="contained" color="primary">
               Log In
-            </Button>
+            </Button></Link>
           
 
       </form>
